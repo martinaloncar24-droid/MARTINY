@@ -139,3 +139,6 @@ _Source: [liink](https://static.vecteezy.com/system/resources/previews/022/275/8
 
 > User Experience Design se odnosi na ukupno iskustvo korisnika pri interakciji s proizvodom ili uslugom.
 
+[![Video naslov](<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/113d71ef-9bc9-4f1e-b3cc-d1b565276458" />
+)](https://youtu.be/SRec90j6lTY)
+
