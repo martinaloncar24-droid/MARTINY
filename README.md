@@ -136,3 +136,6 @@ _Source: [liink](https://static.vecteezy.com/system/resources/previews/022/275/8
 | Datum | 29.01.2026 |
 | Tehnologije | UX Research, UI Design, Prototyping, Usability Testing |
 | Izvor | [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design) |
+
+> User Experience Design se odnosi na ukupno iskustvo korisnika pri interakciji s proizvodom ili uslugom.
+
