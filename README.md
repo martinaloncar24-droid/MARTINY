@@ -117,3 +117,22 @@ Usability tests play an important role in the delivery of a cohesive final produ
 ![slika 1](slika.ak1.jpg)
 ![slika 2](slika.ak2.jpg)
 ![slika 3](slika.ak3.jpg)
+
+_Source: [liink](https://static.vecteezy.com/system/resources/previews/022/275/879/non_2x/user-experience-outline-icons-simple-stock-illustration-stock-vector.jpg)_
+
+1. history
+2. elements of user experience
+3. the process of user experience
+
+- history
+- elements of user experience
+- the process of user experience
+
+| Polje | Podatak |
+|------|---------|
+| Naziv | User Experience Design |
+| Verzija | N/A |
+| Autor | Don Norman (termin) |
+| Datum | 29.01.2026 |
+| Tehnologije | UX Research, UI Design, Prototyping, Usability Testing |
+| Izvor | [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design) |
