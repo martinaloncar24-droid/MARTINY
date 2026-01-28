@@ -144,3 +144,7 @@ _Source: [liink](https://static.vecteezy.com/system/resources/previews/022/275/8
 
 😿
 
+> **Napomena:**  
+> Ovaj projekt je još u razvoju.
+
+
